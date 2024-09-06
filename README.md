@@ -12,3 +12,6 @@ https://github.com/Rimshan12/23CSBTB50/blob/main/Assignment%202
 
 
 https://github.com/Rimshan12/23CSBTB50/blob/main/2493_(AIML3).ipynb
+
+
+https://github.com/Rimshan12/23CSBTB50/blob/main/AIML(04)_2493_.ipynb
