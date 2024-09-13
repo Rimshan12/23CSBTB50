@@ -15,3 +15,6 @@ https://github.com/Rimshan12/23CSBTB50/blob/main/2493_(AIML3).ipynb
 
 
 https://github.com/Rimshan12/23CSBTB50/blob/main/AIML(04)_2493_.ipynb
+
+
+https://github.com/Rimshan12/23CSBTB50/blob/main/AIML_05_(2493).ipynb
